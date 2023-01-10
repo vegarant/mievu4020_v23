@@ -50,7 +50,7 @@ Last login: Fri Jan  6 11:11:50 2023 from login-math-rhel9-prod01.uio.no
 
 ```
 ##### Terminal 2
-```
+
 ssh -L 8089:localhost:8089 -J vegarant@login.math.uio.no vegarant@baal.uio.no
 ```
 Running this command will open an ssh connection to the ml2 computer on port 8089. 
