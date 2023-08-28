@@ -4,7 +4,7 @@ In this guide we cover how to set up and install the software needed for the cou
 
 ## Using the module system
 
-Our workstations have numerous user which all need different scientific software and different versions of the software. To facilitate this the computers have installed a [module system](https://www.mn.uio.no/math/english/services/it/help/user-environment.html). This system allows users to load the specific software that they need. The four commands that we will need in this course are
+Our workstations have numerous users who all need different scientific software and different versions of the same software. To facilitate this the computers have installed a [module system](https://www.mn.uio.no/math/english/services/it/help/user-environment.html). This system allows users to load the specific software that they need. The four commands that we will need in this course are
 ```
 module avail                 # List all the different modules
 module avail [search phrase] # List all modules containing the search phrase
