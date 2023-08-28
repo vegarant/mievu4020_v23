@@ -60,7 +60,7 @@ Running this command will open an ssh connection to the ml2 computer on port 808
 To open the notebook, copy the link starting with `http://localhost` or `http://127.0.0.1` from terminal 1.
 
 ##### Important warning
-Each user needs to **choose a port number that is not occupied**. In the guide above, we have used port number 8089. Hence at most one of you can use this port number.
+Each user needs to **choose a port number that is not occupied**. In the guide above, we have used port number 8089. Only one user can occupy this port at the same time. 
 
 Above, all commands are executed with the username `vegarant`. You need to replace this username with your own.
 

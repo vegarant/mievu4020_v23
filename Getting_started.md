@@ -13,9 +13,9 @@ module list                  # List all the modules you have loaded
 module purge                 # Unload all modules
 ```
 
-### Example 
+### Example -- Searching for a module
 
-For example, you can search for all modules starting with "pytorch"
+You can search for all modules starting with "torchvision"
 by typing
 
 ```
